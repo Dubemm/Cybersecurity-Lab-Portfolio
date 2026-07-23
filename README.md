@@ -24,7 +24,7 @@ The artifacts hosted here document my practical experience in network forensics,
 
 ---
 
-## 🛠️ Current Technical Skillset
+##  Current Technical Skillset
 *   **Traffic & Log Analysis:** Wireshark packet capture analysis, network profiling.
 *   **Vulnerability Management:** Automated network scanning, configuration auditing, remediation planning.
 *   **Infrastructure & Networking:** Network segmentation, DMZ design, Cisco switch/router CLI configuration.
@@ -32,7 +32,7 @@ The artifacts hosted here document my practical experience in network forensics,
 
 ---
 
-## ✉️ Contact & Professional Engagement
+##  Contact & Professional Engagement
 *   **Name:** Chidubem Nnamani
 *   **Role:** Junior Cybersecurity Analyst
 
